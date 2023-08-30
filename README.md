@@ -5,11 +5,13 @@
 
 ### :man_technologist: About me:
 
-I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.My journey in it started in January 2023 I started learning front end language for 5 months and 3 months of practice in general I became a front end junior developer
+ 
+I am a beginner web developer from Azerbaijan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to
+ IT started in January 2023. I started learning Frontend language 
 
 - :seedling: completed the JEDAcademya course in 5 months
 
-- :zap: Front-end junior developer
+- :zap: Front-end developer
 
 - :mailbox: How to contact me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:muradb356@gmail.com)
 
