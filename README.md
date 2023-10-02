@@ -2,7 +2,7 @@
 # Hi 🖐 my name is Shakhmurad!
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shakhmurad7&label=Profile%20views&color=0e75b6&style=flat" alt="Shakhmurad7" /> </p>
 ### :man_technologist: About me:
 
  
