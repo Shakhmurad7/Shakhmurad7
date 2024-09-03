@@ -9,7 +9,7 @@
 I am frontend develoer from Azerbaijan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to
  IT started in January 2023
 
-- :man_technologist: 1) Store Eight React istifadə edərək qurulmuş e-ticarət veb tətbiqidir. Layihə həssas dizayn, yüksək performans və istifadəçi dostu interfeysi təmin edir. https://store-eight-xi.vercel.app/
+- :man_technologist: Store Eight React istifadə edərək qurulmuş e-ticarət veb tətbiqidir. Layihə həssas dizayn, yüksək performans və istifadəçi dostu interfeysi təmin edir. https://store-eight-xi.vercel.app/
 
 - :zap: Front-end developer
 
