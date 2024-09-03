@@ -6,8 +6,8 @@
 ### :man_technologist: About me:
 
  
-I am a beginner web developer from Azerbaijan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to
- IT started in January 2023. I started learning Frontend language 
+I am Frontend develoer from Azerbaijan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to
+ IT started in January 2023
 
 - :seedling: completed the JEDAcademya course in 5 months
 
