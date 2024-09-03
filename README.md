@@ -9,7 +9,8 @@
 I am frontend develoer from Azerbaijan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to
  IT started in January 2023
 
-- :seedling: completed the JEDAcademya course in 5 months
+- Store Eight React istifadə edərək qurulmuş e-ticarət veb tətbiqidir. Layihə həssas dizayn, yüksək performans və istifadəçi dostu interfeysi təmin edir.
+- https://store-eight-xi.vercel.app/
 
 - :zap: Front-end developer
 
