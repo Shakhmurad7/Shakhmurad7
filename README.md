@@ -9,7 +9,7 @@
 I am frontend develoer from Azerbaijan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to
  IT started in January 2023
 
-- 1 - Store <b>React</b> Eight istifadə edərək qurulmuş e-ticarət veb tətbiqidir. Layihə həssas dizayn, yüksək performans və istifadəçi dostu interfeysi təmin edir. https://store-eight-xi.vercel.app/
+- 1 - Store Eight <b>React</b> istifadə edərək qurulmuş e-ticarət veb tətbiqidir. Layihə həssas dizayn, yüksək performans və istifadəçi dostu interfeysi təmin edir. https://store-eight-xi.vercel.app/
 - 2 - Book Webflow <b>React</b> və <b>TypeScript</b> istifadə edərək hazırlanmış onlayn sifariş veb proqramıdır. Layihə istifadəçilərlə asan qarşılıqlı əlaqə üçün intuitiv interfeys, həssas dizayn və hamar naviqasiya təklif edir.https://book-webflow-shakhmurad.vercel.app/
 - 3 - Rent-a-Car <b>HTML</b>, <b>CSS</b> və <b>JavaScript</b> istifadə edərək qurulmuş bir səhifəlik avtomobil icarəsi veb proqramıdır. Layihə müasir dizayn, asan naviqasiya və avtomobillərin seçilməsi və sifarişi üçün sadə prosesi təklif edir.https://shakhmurad7.github.io/Rent-a-car/index.html
 
