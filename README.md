@@ -13,7 +13,7 @@ I am frontend develoer from Azerbaijan <img src="https://media.giphy.com/media/W
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Projects
 1. [Store Eight](https://book-webflow-shakhmurad.vercel.app/) - <b>React</b> istifadə edərək qurulmuş e-ticarət veb tətbiqidir. Layihə həssas dizayn, yüksək performans və istifadəçi dostu interfeysi təmin edir.
-2. [Book Webflow](https://book-webflow-shakhmurad.vercel.app/) - <b>React</b> və <b>TypeScript</b> istifadə edərək hazırlanmış onlayn sifariş veb proqramıdır. Layihə istifadəçilərlə asan qarşılıqlı əlaqə üçün intuitiv interfeys, həssas dizayn və hamar naviqasiya təklif edir. 
+2. [Book Webflow](https://store-eight-xi.vercel.app/) - <b>React</b> və <b>TypeScript</b> istifadə edərək hazırlanmış onlayn sifariş veb proqramıdır. Layihə istifadəçilərlə asan qarşılıqlı əlaqə üçün intuitiv interfeys, həssas dizayn və hamar naviqasiya təklif edir. 
 3. [Rent-a-Car](https://shakhmurad7.github.io/Rent-a-car/index.html) - <b>HTML</b>, <b>CSS</b> və <b>JavaScript</b> istifadə edərək qurulmuş bir səhifəlik avtomobil icarəsi veb proqramıdır. Layihə müasir dizayn, asan naviqasiya və avtomobillərin seçilməsi və sifarişi üçün sadə prosesi təklif edir. 
 
 - :zap: Front-end developer
